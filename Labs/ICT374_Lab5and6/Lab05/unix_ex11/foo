@@ -1,0 +1,4 @@
+total 8
+-rw-r--r-- 1 clarence clarence   0 Sep  3 09:33 foo
+-rw-r--r-- 1 clarence clarence  11 Sep  3 09:32 hidden.txt
+-rw-r--r-- 1 clarence clarence 298 Sep  3 09:32 lsOutput.sh
